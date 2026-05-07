@@ -34,3 +34,10 @@ Event Listeners
 Input Handling
 Dynamic UI Updates
 Responsive Design
+
+## 🌟 Future Improvements
+Add dark/light mode
+Add word counter
+Add warning colors near limit
+Save text automatically
+Mobile optimization enhancements
