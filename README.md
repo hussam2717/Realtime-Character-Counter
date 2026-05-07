@@ -26,3 +26,11 @@ User types inside the textarea
 JavaScript detects input events
 Character count updates instantly
 Remaining limit decreases dynamically
+
+## 🎯 Learning Concepts
+This project helps in understanding:
+DOM Manipulation
+Event Listeners
+Input Handling
+Dynamic UI Updates
+Responsive Design
