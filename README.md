@@ -20,3 +20,9 @@
 ├── index.html
 ├── style.css
 └── script.js
+
+## ⚡ How It Works
+User types inside the textarea
+JavaScript detects input events
+Character count updates instantly
+Remaining limit decreases dynamically
