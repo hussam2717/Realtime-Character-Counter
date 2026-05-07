@@ -10,3 +10,8 @@
 - Smooth and minimal design
 - Live typing feedback
 - Beginner-friendly project
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
